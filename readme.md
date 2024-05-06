@@ -23,7 +23,7 @@ To get started with this educational platform, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arjun-re/E-learning-Weloki.git
+   git clone https://github.com/prudhvi-kore/E-learning-Weloki.git
    ```
 
 2. Navigate to the project directory:
